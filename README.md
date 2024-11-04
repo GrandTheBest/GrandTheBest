@@ -1,6 +1,6 @@
 ### Hi! My name's Grand!👋
 
-## I'm a Cyber Security Specialist and Porgrammer
+## I'm a Cyber Security Specialist and Programmer
 - ⌨️ I like writing code
 - 🧑‍💻 I like testing web-sites for safe
 - 🥹 I like it when my code works.
