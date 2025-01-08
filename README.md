@@ -15,6 +15,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/Clang-6DB33F?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-6DB33F?style=for-the-badge&logo=CPP&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GrandTheBest&show_icons=true&theme=dark)
